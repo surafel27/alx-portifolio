@@ -1,0 +1,3 @@
+[submodule "client/balemuya"]
+	path = client/shipmate
+	url = https://github.com/surafel27/balemuya.git
